@@ -110,7 +110,6 @@ export default function Home() {
               <h2 className="fh5co-article-title"><a href="single.html">Beef Steak at Guatian Restaurant</a></h2>
               <span className="fh5co-meta fh5co-date">March 6th, 2016</span>
             </article>
-            <div className="clearfix visible-xs-block"></div>
             <article className="col-lg-3 col-md-3 col-sm-3 col-xs-6 col-xxs-12 animate-box">
               <figure>
                 <Image
@@ -139,7 +138,6 @@ export default function Home() {
               <h2 className="fh5co-article-title"><a href="single.html">A Wildlife In The Mountain of India</a></h2>
               <span className="fh5co-meta fh5co-date">March 6th, 2016</span>
             </article>
-            <div className="clearfix visible-lg-block visible-md-block visible-sm-block visible-xs-block"></div>
             <article className="col-lg-3 col-md-3 col-sm-3 col-xs-6 col-xxs-12 animate-box">
               <figure>
                 <Image
@@ -168,7 +166,6 @@ export default function Home() {
               <h2 className="fh5co-article-title"><a href="single.html">A Modernize Huge and Beautiful Building</a></h2>
               <span className="fh5co-meta fh5co-date">March 6th, 2016</span>
             </article>
-            <div className="clearfix visible-xs-block"></div>
             <article className="col-lg-3 col-md-3 col-sm-3 col-xs-6 col-xxs-12 animate-box">
               <figure>
                 <Image
@@ -197,8 +194,6 @@ export default function Home() {
               <h2 className="fh5co-article-title"><a href="single.html">Boat Travel in The Vietnam River</a></h2>
               <span className="fh5co-meta fh5co-date">March 6th, 2016</span>
             </article>
-            <div className="clearfix visible-lg-block visible-md-block visible-sm-block visible-xs-block"></div>
-
             <article className="col-lg-3 col-md-3 col-sm-3 col-xs-6 col-xxs-12 animate-box">
               <figure>
               <Image
@@ -227,7 +222,6 @@ export default function Home() {
               <h2 className="fh5co-article-title"><a href="single.html">Beef Steak at Guatian Restaurant</a></h2>
               <span className="fh5co-meta fh5co-date">March 6th, 2016</span>
             </article>
-            <div className="clearfix visible-xs-block"></div>
             <article className="col-lg-3 col-md-3 col-sm-3 col-xs-6 col-xxs-12 animate-box">
               <figure>
               <Image
@@ -256,7 +250,6 @@ export default function Home() {
               <h2 className="fh5co-article-title"><a href="single.html">A Wildlife In The Mountain of India</a></h2>
               <span className="fh5co-meta fh5co-date">March 6th, 2016</span>
             </article>
-            <div className="clearfix visible-lg-block visible-md-block visible-sm-block visible-xs-block"></div>
             <article className="col-lg-3 col-md-3 col-sm-3 col-xs-6 col-xxs-12 animate-box">
               <figure>
                 <Image
@@ -285,7 +278,6 @@ export default function Home() {
               <h2 className="fh5co-article-title"><a href="single.html">A Modernize Huge and Beautiful Building</a></h2>
               <span className="fh5co-meta fh5co-date">March 6th, 2016</span>
             </article>
-            <div className="clearfix visible-xs-block"></div>
             <article className="col-lg-3 col-md-3 col-sm-3 col-xs-6 col-xxs-12 animate-box">
               <figure>
                 <Image
@@ -314,7 +306,6 @@ export default function Home() {
               <h2 className="fh5co-article-title"><a href="single.html">Boat Travel in The Vietnam River</a></h2>
               <span className="fh5co-meta fh5co-date">March 6th, 2016</span>
             </article>
-            <div className="clearfix visible-xs-block"></div>
           </div>
         </div>
 
